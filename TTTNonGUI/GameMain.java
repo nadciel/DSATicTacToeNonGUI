@@ -1,3 +1,4 @@
+package TTTNonGUI;
 import java.util.Scanner;
 /**
  * The main class for the Tic-Tac-Toe (Console-OO, non-graphics version)

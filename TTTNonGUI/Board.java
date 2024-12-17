@@ -1,3 +1,4 @@
+package TTTNonGUI;
 /**
  * The Board class models the TTT game-board of 3x3 cells.
  */

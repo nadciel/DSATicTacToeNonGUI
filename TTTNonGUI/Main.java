@@ -1,3 +1,4 @@
+package TTTNonGUI;
 /**
  * Main class of the Java program.
  */
